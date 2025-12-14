@@ -40,6 +40,3 @@ The player can move the jet-fighter left and right in order to avoid birds that 
 - The goal of the project is to practice basic Android concepts.
 
 ---
-
-## Author
-Student Name: ________
