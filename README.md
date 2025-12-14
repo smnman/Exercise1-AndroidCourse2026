@@ -1,17 +1,17 @@
-# Android Car Game – HW1
+# Android jet-fighter(as a car) Game – HW1
 
 This project is a simple Android game created as part of the first homework assignment.
 
-The game simulates a car driving on a three-lane road.  
-The player can move the car left and right in order to avoid obstacles that appear on the road.
+The game simulates a F-35 flying on a three-lane sky.  
+The player can move the jet-fighter left and right in order to avoid birds that appear in the sky.
 
 ---
 
 ## Game Description
-- The road has three lanes.
-- The car can move left and right using buttons.
+- The sky has three lanes.
+- The jet-fighter can move left and right using buttons.
 - Obstacles move down the screen at a constant speed.
-- When the car hits an obstacle, the player loses one life.
+- When the jet-fighter hits an obstacle, the player loses one life.
 - The player starts with 3 lives.
 - A toast message and vibration are shown on a crash.
 - When all lives are lost, the game restarts and continues endlessly.
@@ -30,7 +30,7 @@ The player can move the car left and right in order to avoid obstacles that appe
 ## How to Run
 1. Open the project in Android Studio.
 2. Build and run the app on an emulator or Android device.
-3. Use the left and right buttons to control the car.
+3. Use the left and right buttons to control the jet-fighter.
 
 ---
 
